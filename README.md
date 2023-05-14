@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update OpenVINO INT8 export (#7515)
