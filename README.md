@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update pyproject.toml and Docs (#7274)
