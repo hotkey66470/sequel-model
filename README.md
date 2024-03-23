@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
